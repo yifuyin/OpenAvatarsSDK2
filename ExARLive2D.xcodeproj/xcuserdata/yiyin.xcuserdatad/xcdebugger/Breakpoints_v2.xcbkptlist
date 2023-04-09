@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F76C23D-C569-41C0-A287-BD361FB4B38E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDFBA680-1778-492B-A69E-090E7739BF7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExARLive2D/App/Live2DVC/GLParentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EDFBA680-1778-492B-A69E-090E7739BF7F - 42e3e61423c4c22c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExARLive2D.GLParentViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ExARLive2D"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/ExARLive2D/ExARLive2D/App/Live2DVC/GLParentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "EDFBA680-1778-492B-A69E-090E7739BF7F - 42e3e61423c4c213"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExARLive2D.GLParentViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ExARLive2D"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/ExARLive2D/ExARLive2D/App/Live2DVC/GLParentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "EDFBA680-1778-492B-A69E-090E7739BF7F - 42e3e61423c4c213"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExARLive2D.GLParentViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ExARLive2D"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/ExARLive2D/ExARLive2D/App/Live2DVC/GLParentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60015B36-8929-4D16-ACFB-BBE8C29F362D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExARLive2D/App/Live2DVC/GLParentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60015B36-8929-4D16-ACFB-BBE8C29F362D - 42e3e61423c4c2ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExARLive2D.GLParentViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ExARLive2D"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/ExARLive2D/ExARLive2D/App/Live2DVC/GLParentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "60015B36-8929-4D16-ACFB-BBE8C29F362D - 42e3e61423c4c2cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ExARLive2D.GLParentViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "ExARLive2D"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yiyin/Downloads/ExARLive2D/ExARLive2D/App/Live2DVC/GLParentViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

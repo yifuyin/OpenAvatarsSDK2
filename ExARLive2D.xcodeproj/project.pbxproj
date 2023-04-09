@@ -54,8 +54,6 @@
 		4848A6E227777C8800BA19EA /* FrontARCameraDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4848A6E127777C8800BA19EA /* FrontARCameraDelegate.swift */; };
 		4848A6E427777C8C00BA19EA /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4848A6E327777C8C00BA19EA /* Settings.swift */; };
 		4848A6F227777D3E00BA19EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4848A6F127777D3E00BA19EA /* Main.storyboard */; };
-		4848A70D2777884A00BA19EA /* texture_00.png in Resources */ = {isa = PBXBuildFile; fileRef = 4848A6FB2777884A00BA19EA /* texture_00.png */; };
-		4848A70E2777884A00BA19EA /* texture_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 4848A6FC2777884A00BA19EA /* texture_01.png */; };
 		4848A70F2777884A00BA19EA /* hiyori_pro_t10.pose3.json in Resources */ = {isa = PBXBuildFile; fileRef = 4848A6FD2777884A00BA19EA /* hiyori_pro_t10.pose3.json */; };
 		4848A7102777884A00BA19EA /* hiyori_m01.motion3.json in Resources */ = {isa = PBXBuildFile; fileRef = 4848A6FF2777884A00BA19EA /* hiyori_m01.motion3.json */; };
 		4848A7112777884A00BA19EA /* hiyori_m06.motion3.json in Resources */ = {isa = PBXBuildFile; fileRef = 4848A7002777884A00BA19EA /* hiyori_m06.motion3.json */; };
@@ -76,6 +74,9 @@
 		489B1B6D2778956800655A65 /* Live2DVC+Configuration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 489B1B6C2778956800655A65 /* Live2DVC+Configuration.swift */; };
 		489B1B702778980300655A65 /* Live2DVC+ViewWillTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 489B1B6F2778980300655A65 /* Live2DVC+ViewWillTransition.swift */; };
 		489B1B722778982500655A65 /* Live2DVC+ARSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = 489B1B712778982500655A65 /* Live2DVC+ARSession.swift */; };
+		AD4E5CB229E0EA0000B295A2 /* texture_01.png in Resources */ = {isa = PBXBuildFile; fileRef = AD4E5CB029E0EA0000B295A2 /* texture_01.png */; };
+		AD4E5CB429E0EC0D00B295A2 /* texture_00.png in Resources */ = {isa = PBXBuildFile; fileRef = AD4E5CB329E0EC0D00B295A2 /* texture_00.png */; };
+		AD4E5CB629E0F1A400B295A2 /* GLParentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4E5CB529E0F1A400B295A2 /* GLParentViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -217,8 +218,6 @@
 		4848A6E327777C8C00BA19EA /* Settings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 		4848A6F127777D3E00BA19EA /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		4848A6F527777F6000BA19EA /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4848A6FB2777884A00BA19EA /* texture_00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = texture_00.png; sourceTree = "<group>"; };
-		4848A6FC2777884A00BA19EA /* texture_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = texture_01.png; sourceTree = "<group>"; };
 		4848A6FD2777884A00BA19EA /* hiyori_pro_t10.pose3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hiyori_pro_t10.pose3.json; sourceTree = "<group>"; };
 		4848A6FF2777884A00BA19EA /* hiyori_m01.motion3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hiyori_m01.motion3.json; sourceTree = "<group>"; };
 		4848A7002777884A00BA19EA /* hiyori_m06.motion3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = hiyori_m06.motion3.json; sourceTree = "<group>"; };
@@ -240,6 +239,9 @@
 		489B1B6F2778980300655A65 /* Live2DVC+ViewWillTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Live2DVC+ViewWillTransition.swift"; sourceTree = "<group>"; };
 		489B1B712778982500655A65 /* Live2DVC+ARSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Live2DVC+ARSession.swift"; sourceTree = "<group>"; };
 		48A290482778333D00C07E71 /* UseLive2DOnMac.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = UseLive2DOnMac.md; sourceTree = "<group>"; };
+		AD4E5CB029E0EA0000B295A2 /* texture_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = texture_01.png; sourceTree = "<group>"; };
+		AD4E5CB329E0EC0D00B295A2 /* texture_00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = texture_00.png; path = ../../../../../Desktop/texture_00.png; sourceTree = "<group>"; };
+		AD4E5CB529E0F1A400B295A2 /* GLParentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GLParentViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -619,8 +621,8 @@
 		4848A6FA2777884A00BA19EA /* hiyori_pro_t10.2048 */ = {
 			isa = PBXGroup;
 			children = (
-				4848A6FB2777884A00BA19EA /* texture_00.png */,
-				4848A6FC2777884A00BA19EA /* texture_01.png */,
+				AD4E5CB329E0EC0D00B295A2 /* texture_00.png */,
+				AD4E5CB029E0EA0000B295A2 /* texture_01.png */,
 			);
 			path = hiyori_pro_t10.2048;
 			sourceTree = "<group>";
@@ -654,6 +656,7 @@
 		489B1B6E277896D100655A65 /* Live2DVC */ = {
 			isa = PBXGroup;
 			children = (
+				AD4E5CB529E0F1A400B295A2 /* GLParentViewController.swift */,
 				483E28A6277766B500D53495 /* Live2DVC.swift */,
 				4856F7D02779B8CC00F1F8CE /* Live2DVC+UpdateGLKView.swift */,
 				480F3CC5277A279B00541871 /* AR */,
@@ -747,11 +750,10 @@
 				4848A71D2777884A00BA19EA /* hiyori_pro_t10.physics3.json in Resources */,
 				483E28AF277766B700D53495 /* LaunchScreen.storyboard in Resources */,
 				4848A7172777884A00BA19EA /* hiyori_m05.motion3.json in Resources */,
-				4848A70E2777884A00BA19EA /* texture_01.png in Resources */,
 				4848A7182777884A00BA19EA /* hiyori_m04.motion3.json in Resources */,
-				4848A70D2777884A00BA19EA /* texture_00.png in Resources */,
 				4848A7132777884A00BA19EA /* hiyori_m09.motion3.json in Resources */,
 				4848A71A2777884A00BA19EA /* hiyori_pro_t10.moc3 in Resources */,
+				AD4E5CB229E0EA0000B295A2 /* texture_01.png in Resources */,
 				4848A71C2777884A00BA19EA /* hiyori_pro_t10.model3.json in Resources */,
 				4848A6F227777D3E00BA19EA /* Main.storyboard in Resources */,
 				4848A7112777884A00BA19EA /* hiyori_m06.motion3.json in Resources */,
@@ -762,6 +764,7 @@
 				4848A7142777884A00BA19EA /* hiyori_m08.motion3.json in Resources */,
 				483E28AC277766B700D53495 /* Assets.xcassets in Resources */,
 				4848A7162777884A00BA19EA /* hiyori_m02.motion3.json in Resources */,
+				AD4E5CB429E0EC0D00B295A2 /* texture_00.png in Resources */,
 				4848A70F2777884A00BA19EA /* hiyori_pro_t10.pose3.json in Resources */,
 				4848A7152777884A00BA19EA /* hiyori_m10.motion3.json in Resources */,
 			);
@@ -781,6 +784,7 @@
 				4848A6E227777C8800BA19EA /* FrontARCameraDelegate.swift in Sources */,
 				4856F7D12779B8CC00F1F8CE /* Live2DVC+UpdateGLKView.swift in Sources */,
 				489B1B6D2778956800655A65 /* Live2DVC+Configuration.swift in Sources */,
+				AD4E5CB629E0F1A400B295A2 /* GLParentViewController.swift in Sources */,
 				489B1B722778982500655A65 /* Live2DVC+ARSession.swift in Sources */,
 				4848A6E427777C8C00BA19EA /* Settings.swift in Sources */,
 				489B1B702778980300655A65 /* Live2DVC+ViewWillTransition.swift in Sources */,
@@ -970,7 +974,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = C4W6UUH267;
+				DEVELOPMENT_TEAM = 9VG23FDGEM;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					L2D_TARGET_IPHONE_ES2,
@@ -1012,7 +1016,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = C4W6UUH267;
+				DEVELOPMENT_TEAM = 9VG23FDGEM;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					L2D_TARGET_IPHONE_ES2,
 					"GLES_SILENCE_DEPRECATION=1",

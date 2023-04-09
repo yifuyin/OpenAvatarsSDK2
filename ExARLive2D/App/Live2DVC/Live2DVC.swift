@@ -51,7 +51,7 @@ class Live2DViewController: GLKViewController {
             return
         }
         view.context = live2DView
-
+        view.backgroundColor = UIColor(white: 1, alpha: 0)
         // MARK: setup `live2DModel`
 
         SetupLive2DModel()
